@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\fontawesome\\webfonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "softech"
+	}
+}
